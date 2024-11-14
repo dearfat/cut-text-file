@@ -1,0 +1,7 @@
+/target
+./target
+./.vscode
+._*
+*.sh
+*.yaml
+.vscode
